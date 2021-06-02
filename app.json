@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "monkey-chunky-app",
+    "slug": "snack-e8e3b2f2-6722-43d7-b000-2184708fc7ab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Type any word and get the words in chunks that will able you to pronounce it properly."
+  }
+}
